@@ -1,1 +1,1 @@
-# -Business-Insights-and-Recommendation-UNIVERSITY-OF-CALIFORNIA-DAVIS-Coursera-Course
+# -Business-Insights-and-Recommendation for hotels
